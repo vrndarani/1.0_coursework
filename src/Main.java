@@ -54,6 +54,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
+
         Employee[] employee = new Employee[10];
         employee[0] = new Employee("John Johnson", 55000, 1);
         employee[1] = new Employee("Sam Smith", 65000, 2);
